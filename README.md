@@ -12,11 +12,11 @@ Clone o repositório com o comando:
 
  E o programa já estará disponível para o uso. Basta executar no terminal dentro do diretório do clone, com o comando
 
- <pre>```powershell py main.py```</pre>
+ `py main.py`
 
  ou, caso esteja no linux/mac
 
- <pre>```bash python3 main.py ```</pre>
+ `python3 main.py `
 
  ## Contatos 📱
  * email: danielkmatuo@gmail.com
